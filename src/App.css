@@ -87,7 +87,7 @@ while keeping them available to the keyboard */
 }
 
 .feature__option:checked + .feature__label {
-  border: 0.2rem solid #0070c9;
+  /* border: 0.2rem solid #0070c9; */
 }
 
 .feature__option:focus + .feature__label {
